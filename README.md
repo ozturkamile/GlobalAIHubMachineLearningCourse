@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 22.03.2021-27.03.2021  
 **Name:** Kamile  
 **Surname:** Öztürk Kösenciğ  
 **Email:** kamileozturk89@gmail.com  
